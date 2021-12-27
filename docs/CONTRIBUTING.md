@@ -139,11 +139,11 @@ In order to build and run Enso you will need the following tools:
 
 - [sbt](https://www.scala-sbt.org/) with the same version as specified in
   [`project/build.properties`](../project/build.properties). (Done)
-- [Maven](https://maven.apache.org/) with version at least 3.6.3.
+- [Maven](https://maven.apache.org/) with version at least 3.6.3. (Done)
 - [GraalVM](https://www.graalvm.org/) with the same version as described in the
   [`build.sbt`](../build.sbt) file, configured as your default JVM. GraalVM is
   distributed for different Java versions, so you need a GraalVM distribution
-  for the same Java version as specified in [`build.sbt`](../build.sbt).
+  for the same Java version as specified in [`build.sbt`](../build.sbt). (Done)
 - [Flatbuffers Compiler](https://google.github.io/flatbuffers) with version
   1.12.0.
 - [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html),
