@@ -170,7 +170,7 @@ The flatbuffers `flatc` compiler can be installed from the following locations:
   [releases](https://github.com/google/flatbuffers/releases).
 - MacOS users can install it via homebrew (`brew install flatbuffers`).
 
-### Getting the Sources
+### Getting the Sources - (Done)
 
 Given you've probably been reading this document on GitHub, you might have an
 inkling where to look!. You can clone Enso using two methods:
