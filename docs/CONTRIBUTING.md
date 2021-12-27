@@ -190,21 +190,21 @@ git clone https://github.com/enso-org/enso.git
 git clone git@github.com:enso-org/enso.git
 ```
 
-### Getting Set Up (Rust)
+### Getting Set Up (Rust) (Done)
 
 The SBT project requires a specific nightly rust toolchain. To get it set up,
 you will need to install [rustup](https://rustup.rs/) (Done) and then run the following
 commands:
 
 ```bash
-rustup toolchain install nightly-2021-05-12
-rustup override set nightly-2021-05-12
-rustup component add clippy
+rustup toolchain install nightly-2021-05-12 (Done)
+rustup override set nightly-2021-05-12 (Done)
+rustup component add clippy (Done)
 ```
 
 You will also need `node` in order to run the `wasm` tests. We only support the
-latest LTS version of [NodeJS](https://nodejs.org/en/download) and NPM. We
-recommend using [`nvm`](https://github.com/nvm-sh/nvm) to manage node versions.
+latest LTS version of [NodeJS](https://nodejs.org/en/download) and NPM (Done). We
+recommend using [`nvm`](https://github.com/nvm-sh/nvm) to manage node versions (Not Done - POSIX only).
 The current LTS is `v14.16.1.
 
 ### Getting Set Up (JVM)
