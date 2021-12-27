@@ -138,7 +138,7 @@ configurations will not be fixed by the core team.
 In order to build and run Enso you will need the following tools:
 
 - [sbt](https://www.scala-sbt.org/) with the same version as specified in
-  [`project/build.properties`](../project/build.properties).
+  [`project/build.properties`](../project/build.properties). (Done)
 - [Maven](https://maven.apache.org/) with version at least 3.6.3.
 - [GraalVM](https://www.graalvm.org/) with the same version as described in the
   [`build.sbt`](../build.sbt) file, configured as your default JVM. GraalVM is
