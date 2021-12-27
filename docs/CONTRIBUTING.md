@@ -193,7 +193,7 @@ git clone git@github.com:enso-org/enso.git
 ### Getting Set Up (Rust)
 
 The SBT project requires a specific nightly rust toolchain. To get it set up,
-you will need to install [rustup](https://rustup.rs/) and then run the following
+you will need to install [rustup](https://rustup.rs/) (Done) and then run the following
 commands:
 
 ```bash
